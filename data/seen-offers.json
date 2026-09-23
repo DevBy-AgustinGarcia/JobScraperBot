@@ -3,7 +3,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "ai-backend-engineer-improving-remote",
     "FirstSeenAt": "2026-09-18T16:46:45.517302Z",
-    "LastSeenAt": "2026-09-22T23:19:22.3782369Z",
+    "LastSeenAt": "2026-09-23T17:32:37.3705775Z",
     "Status": 0
   },
   {
@@ -17,7 +17,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "analista-desarrollador-net-bc-tecnologia-santiago",
     "FirstSeenAt": "2026-09-15T23:14:07.5402983Z",
-    "LastSeenAt": "2026-09-22T23:19:22.3782369Z",
+    "LastSeenAt": "2026-09-23T17:32:37.3705775Z",
     "Status": 0
   },
   {
@@ -66,14 +66,14 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "bilingual-spanish-english-full-stack-developer-tabiya-us-remote",
     "FirstSeenAt": "2026-09-11T16:48:33.5150688Z",
-    "LastSeenAt": "2026-09-22T23:19:22.3782369Z",
+    "LastSeenAt": "2026-09-23T17:32:37.3705775Z",
     "Status": 0
   },
   {
     "SourceSite": "GetOnBoard",
     "ExternalId": "desarrollador-a-backend-bc-tecnologia-lima",
     "FirstSeenAt": "2026-09-09T22:48:59.2143491Z",
-    "LastSeenAt": "2026-09-22T23:19:22.3782369Z",
+    "LastSeenAt": "2026-09-23T17:32:37.3705775Z",
     "Status": 0
   },
   {
@@ -94,14 +94,14 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "desarrollador-a-drupal-full-stack-bc-tecnologia-lima",
     "FirstSeenAt": "2026-09-15T23:14:07.5402983Z",
-    "LastSeenAt": "2026-09-22T23:19:22.3782369Z",
+    "LastSeenAt": "2026-09-23T17:32:37.3705775Z",
     "Status": 0
   },
   {
     "SourceSite": "GetOnBoard",
     "ExternalId": "desarrollador-a-full-stack-angular-net-azure-peru-bc-tecnologia-lima",
     "FirstSeenAt": "2026-09-10T16:44:18.4691152Z",
-    "LastSeenAt": "2026-09-22T23:19:22.3782369Z",
+    "LastSeenAt": "2026-09-23T17:32:37.3705775Z",
     "Status": 0
   },
   {
@@ -129,7 +129,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "desarrollador-back-end-agilesoft-spa-remote-b90b",
     "FirstSeenAt": "2026-09-14T23:33:15.8342269Z",
-    "LastSeenAt": "2026-09-22T23:19:22.3782369Z",
+    "LastSeenAt": "2026-09-23T17:32:37.3705775Z",
     "Status": 0
   },
   {
@@ -164,7 +164,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "desarrollador-full-stack-hibrido-agilesoft-spa-santiago-d50c",
     "FirstSeenAt": "2026-09-22T17:25:17.6028477Z",
-    "LastSeenAt": "2026-09-22T23:19:22.3782369Z",
+    "LastSeenAt": "2026-09-23T17:32:37.3705775Z",
     "Status": 0
   },
   {
@@ -183,6 +183,13 @@
   },
   {
     "SourceSite": "GetOnBoard",
+    "ExternalId": "desarrollador-full-stack-react-nestjs-aws-witi-remote",
+    "FirstSeenAt": "2026-09-23T17:32:37.3634329Z",
+    "LastSeenAt": "2026-09-23T17:32:37.3705775Z",
+    "Status": 0
+  },
+  {
+    "SourceSite": "GetOnBoard",
     "ExternalId": "desarrollador-fullstack-django-next-js-expressdent-santiago",
     "FirstSeenAt": "2026-09-04T22:36:00.8504827Z",
     "LastSeenAt": "2026-09-18T22:53:28.6168804Z",
@@ -192,7 +199,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "desarrollador-fullstack-java-angular-improving-remote",
     "FirstSeenAt": "2026-09-11T22:50:28.4689038Z",
-    "LastSeenAt": "2026-09-22T23:19:22.3782369Z",
+    "LastSeenAt": "2026-09-23T17:32:37.3705775Z",
     "Status": 0
   },
   {
@@ -206,7 +213,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "desarrollador-fullstack-laravel-usercode-spa-santiago",
     "FirstSeenAt": "2026-09-17T17:21:18.3574385Z",
-    "LastSeenAt": "2026-09-22T23:19:22.3782369Z",
+    "LastSeenAt": "2026-09-23T17:32:37.3705775Z",
     "Status": 0
   },
   {
@@ -214,20 +221,20 @@
     "ExternalId": "desarrollador-fullstack-mean-bc-tecnologia-remote",
     "FirstSeenAt": "2026-09-08T23:02:01.2519376Z",
     "LastSeenAt": "2026-09-22T23:19:22.3782369Z",
-    "Status": 0
+    "Status": 2
   },
   {
     "SourceSite": "GetOnBoard",
     "ExternalId": "desarrollador-fullstack-react-spring-boot-oracle-db-sonda-santiago",
     "FirstSeenAt": "2026-09-10T16:44:18.4691152Z",
-    "LastSeenAt": "2026-09-22T23:19:22.3782369Z",
+    "LastSeenAt": "2026-09-23T17:32:37.3705775Z",
     "Status": 0
   },
   {
     "SourceSite": "GetOnBoard",
     "ExternalId": "desarrollador-integraciones-con-dynamics-365-bc-tecnologia-remote",
     "FirstSeenAt": "2026-09-11T16:48:33.5150688Z",
-    "LastSeenAt": "2026-09-22T23:19:22.3782369Z",
+    "LastSeenAt": "2026-09-23T17:32:37.3705775Z",
     "Status": 0
   },
   {
@@ -295,6 +302,13 @@
   },
   {
     "SourceSite": "GetOnBoard",
+    "ExternalId": "full-stack-developer-foco-back-end-nestjs-next-js-aws-witi-remote",
+    "FirstSeenAt": "2026-09-23T17:32:37.3634329Z",
+    "LastSeenAt": "2026-09-23T17:32:37.3705775Z",
+    "Status": 0
+  },
+  {
+    "SourceSite": "GetOnBoard",
     "ExternalId": "full-stack-developer-junior-lexia-lexia-ciudad-de-mexico",
     "FirstSeenAt": "2026-08-26T13:44:22.1728644Z",
     "LastSeenAt": "2026-08-27T00:18:45.8252579Z",
@@ -332,7 +346,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "full-stack-developer-secretaria-de-gobierno-digital-santiago",
     "FirstSeenAt": "2026-09-09T22:48:59.2143491Z",
-    "LastSeenAt": "2026-09-22T23:19:22.3782369Z",
+    "LastSeenAt": "2026-09-23T17:32:37.3705775Z",
     "Status": 0
   },
   {
@@ -423,7 +437,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "fullstack-developer-react-node-js-improving-remote",
     "FirstSeenAt": "2026-09-14T23:33:15.8342269Z",
-    "LastSeenAt": "2026-09-22T23:19:22.3782369Z",
+    "LastSeenAt": "2026-09-23T17:32:37.3705775Z",
     "Status": 0
   },
   {
@@ -479,7 +493,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "java-back-end-engineer-improving-remote",
     "FirstSeenAt": "2026-09-18T16:46:45.517302Z",
-    "LastSeenAt": "2026-09-22T23:19:22.3782369Z",
+    "LastSeenAt": "2026-09-23T17:32:37.3705775Z",
     "Status": 0
   },
   {
@@ -514,7 +528,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "net-software-engineer-codineering-inc-remote",
     "FirstSeenAt": "2026-09-21T23:42:19.2633621Z",
-    "LastSeenAt": "2026-09-22T23:19:22.3782369Z",
+    "LastSeenAt": "2026-09-23T17:32:37.3705775Z",
     "Status": 0
   },
   {
@@ -533,9 +547,16 @@
   },
   {
     "SourceSite": "GetOnBoard",
+    "ExternalId": "software-developer-ai-remote-steuart-nutrition-remote",
+    "FirstSeenAt": "2026-09-23T17:32:37.3634329Z",
+    "LastSeenAt": "2026-09-23T17:32:37.3705775Z",
+    "Status": 0
+  },
+  {
+    "SourceSite": "GetOnBoard",
     "ExternalId": "software-development-engineer-healthatom-remote-d014",
     "FirstSeenAt": "2026-09-21T23:42:19.2633621Z",
-    "LastSeenAt": "2026-09-22T23:19:22.3782369Z",
+    "LastSeenAt": "2026-09-23T17:32:37.3705775Z",
     "Status": 0
   },
   {
@@ -549,7 +570,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "software-engineer-lemontech-remote-f214",
     "FirstSeenAt": "2026-09-16T17:22:28.465409Z",
-    "LastSeenAt": "2026-09-22T23:19:22.3782369Z",
+    "LastSeenAt": "2026-09-23T17:32:37.3705775Z",
     "Status": 0
   },
   {
@@ -577,84 +598,84 @@
     "SourceSite": "RemoteOK",
     "ExternalId": "1135486",
     "FirstSeenAt": "2026-09-10T16:44:18.3861033Z",
-    "LastSeenAt": "2026-09-22T23:19:22.3699413Z",
+    "LastSeenAt": "2026-09-23T17:32:37.3549169Z",
     "Status": 0
   },
   {
     "SourceSite": "RemoteOK",
     "ExternalId": "1135555",
     "FirstSeenAt": "2026-09-10T16:44:18.3861033Z",
-    "LastSeenAt": "2026-09-22T23:19:22.3699413Z",
+    "LastSeenAt": "2026-09-23T17:32:37.3549169Z",
     "Status": 0
   },
   {
     "SourceSite": "RemoteOK",
     "ExternalId": "1135634",
     "FirstSeenAt": "2026-09-10T16:44:18.3861033Z",
-    "LastSeenAt": "2026-09-22T23:19:22.3699413Z",
+    "LastSeenAt": "2026-09-23T17:32:37.3549169Z",
     "Status": 0
   },
   {
     "SourceSite": "RemoteOK",
     "ExternalId": "1135673",
     "FirstSeenAt": "2026-09-10T16:44:18.3861033Z",
-    "LastSeenAt": "2026-09-22T23:19:22.3699413Z",
+    "LastSeenAt": "2026-09-23T17:32:37.3549169Z",
     "Status": 0
   },
   {
     "SourceSite": "RemoteOK",
     "ExternalId": "1136188",
     "FirstSeenAt": "2026-09-10T16:44:18.3861033Z",
-    "LastSeenAt": "2026-09-22T23:19:22.3699413Z",
+    "LastSeenAt": "2026-09-23T17:32:37.3549169Z",
     "Status": 0
   },
   {
     "SourceSite": "RemoteOK",
     "ExternalId": "1136217",
     "FirstSeenAt": "2026-09-10T16:44:18.3861033Z",
-    "LastSeenAt": "2026-09-22T23:19:22.3699413Z",
+    "LastSeenAt": "2026-09-23T17:32:37.3549169Z",
     "Status": 0
   },
   {
     "SourceSite": "RemoteOK",
     "ExternalId": "1136222",
     "FirstSeenAt": "2026-09-10T16:44:18.3861033Z",
-    "LastSeenAt": "2026-09-22T23:19:22.3699413Z",
+    "LastSeenAt": "2026-09-23T17:32:37.3549169Z",
     "Status": 0
   },
   {
     "SourceSite": "RemoteOK",
     "ExternalId": "1136773",
     "FirstSeenAt": "2026-09-10T16:44:18.3861033Z",
-    "LastSeenAt": "2026-09-22T23:19:22.3699413Z",
+    "LastSeenAt": "2026-09-23T17:32:37.3549169Z",
     "Status": 0
   },
   {
     "SourceSite": "RemoteOK",
     "ExternalId": "1137062",
     "FirstSeenAt": "2026-08-23T02:57:37.973039Z",
-    "LastSeenAt": "2026-09-22T23:19:22.3699413Z",
+    "LastSeenAt": "2026-09-23T17:32:37.3549169Z",
     "Status": 0
   },
   {
     "SourceSite": "RemoteOK",
     "ExternalId": "1137409",
     "FirstSeenAt": "2026-09-20T22:45:54.8369736Z",
-    "LastSeenAt": "2026-09-22T23:19:22.3699413Z",
+    "LastSeenAt": "2026-09-23T17:32:37.3549169Z",
     "Status": 0
   },
   {
     "SourceSite": "RemoteOK",
     "ExternalId": "1137410",
     "FirstSeenAt": "2026-09-21T18:22:20.7618127Z",
-    "LastSeenAt": "2026-09-22T23:19:22.3699413Z",
+    "LastSeenAt": "2026-09-23T17:32:37.3549169Z",
     "Status": 0
   },
   {
     "SourceSite": "Remotive",
     "ExternalId": "2091141",
     "FirstSeenAt": "2026-09-20T16:36:28.8008247Z",
-    "LastSeenAt": "2026-09-22T23:19:22.2837673Z",
+    "LastSeenAt": "2026-09-23T17:32:37.1842467Z",
     "Status": 0
   },
   {
@@ -668,7 +689,7 @@
     "SourceSite": "WeRemoto",
     "ExternalId": "id-desarrollador-full-stack-cobrix",
     "FirstSeenAt": "2026-09-05T22:24:03.940978Z",
-    "LastSeenAt": "2026-09-22T23:19:22.3705541Z",
+    "LastSeenAt": "2026-09-23T17:32:37.3562478Z",
     "Status": 0
   },
   {
