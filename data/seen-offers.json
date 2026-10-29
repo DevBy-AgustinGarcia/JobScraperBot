@@ -52,14 +52,14 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "aws-iot-backend-engineer-improving-remote",
     "FirstSeenAt": "2026-10-27T18:29:33.3853712Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8675049Z",
+    "LastSeenAt": "2026-10-29T00:30:25.8056953Z",
     "Status": 0
   },
   {
     "SourceSite": "GetOnBoard",
     "ExternalId": "back-end-developer-java-springboot-apigee-42labs-santiago",
     "FirstSeenAt": "2026-09-30T18:11:56.5498448Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8675049Z",
+    "LastSeenAt": "2026-10-29T00:30:25.8056953Z",
     "Status": 0
   },
   {
@@ -73,14 +73,14 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "back-end-developer-para-datos-industriales-detroit-s-a-santiago",
     "FirstSeenAt": "2026-10-23T17:34:05.4680669Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8675049Z",
+    "LastSeenAt": "2026-10-29T00:30:25.8056953Z",
     "Status": 0
   },
   {
     "SourceSite": "GetOnBoard",
     "ExternalId": "back-end-engineer-nestjs-aws-witi-remote",
     "FirstSeenAt": "2026-10-21T23:45:54.9083757Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8675049Z",
+    "LastSeenAt": "2026-10-29T00:30:25.8056953Z",
     "Status": 0
   },
   {
@@ -129,7 +129,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "backend-developer-pci-aws-hf-solutions-santiago",
     "FirstSeenAt": "2026-10-19T18:53:17.6544837Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8675049Z",
+    "LastSeenAt": "2026-10-29T00:30:25.8056953Z",
     "Status": 0
   },
   {
@@ -143,7 +143,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "backend-engineer-ssr-nestjs-hexagonal-aws-witi-remote",
     "FirstSeenAt": "2026-10-27T18:29:33.3853712Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8675049Z",
+    "LastSeenAt": "2026-10-29T00:30:25.8056953Z",
     "Status": 0
   },
   {
@@ -220,7 +220,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "desarrollador-a-full-stack-angular-net-azure-peru-bc-tecnologia-lima-3961",
     "FirstSeenAt": "2026-10-22T17:43:33.0341757Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8675049Z",
+    "LastSeenAt": "2026-10-29T00:30:25.8056953Z",
     "Status": 0
   },
   {
@@ -248,7 +248,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "desarrollador-a-full-stack-financia-capital-santiago",
     "FirstSeenAt": "2026-10-28T00:09:05.6676372Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8675049Z",
+    "LastSeenAt": "2026-10-29T00:30:25.8056953Z",
     "Status": 0
   },
   {
@@ -269,8 +269,8 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "desarrollador-a-full-stack-movek-remote",
     "FirstSeenAt": "2026-10-22T17:43:33.0341757Z",
-    "LastSeenAt": "2026-10-28T00:09:05.6776418Z",
-    "Status": 2
+    "LastSeenAt": "2026-10-29T00:30:25.8056953Z",
+    "Status": 0
   },
   {
     "SourceSite": "GetOnBoard",
@@ -367,14 +367,14 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "desarrollador-full-stack-golang-net-react-3it-santiago-8fed",
     "FirstSeenAt": "2026-10-28T18:35:47.8578215Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8675049Z",
+    "LastSeenAt": "2026-10-29T00:30:25.8056953Z",
     "Status": 0
   },
   {
     "SourceSite": "GetOnBoard",
     "ExternalId": "desarrollador-full-stack-grafton-latam-santiago",
     "FirstSeenAt": "2026-10-21T17:44:08.2405993Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8675049Z",
+    "LastSeenAt": "2026-10-29T00:30:25.8056953Z",
     "Status": 0
   },
   {
@@ -388,7 +388,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "desarrollador-full-stack-liferay-bc-tecnologia-santiago",
     "FirstSeenAt": "2026-10-21T17:44:08.2405993Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8675049Z",
+    "LastSeenAt": "2026-10-29T00:30:25.8056953Z",
     "Status": 0
   },
   {
@@ -409,7 +409,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "desarrollador-full-stack-mediastream-remote-971f",
     "FirstSeenAt": "2026-10-21T23:45:54.9083757Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8675049Z",
+    "LastSeenAt": "2026-10-29T00:30:25.8056953Z",
     "Status": 0
   },
   {
@@ -458,7 +458,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "desarrollador-full-stack-web-foco-backend-witi-santiago",
     "FirstSeenAt": "2026-10-19T18:53:17.6544837Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8675049Z",
+    "LastSeenAt": "2026-10-29T00:30:25.8056953Z",
     "Status": 0
   },
   {
@@ -535,7 +535,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "desarrollador-mobile-mediastream-bogota-santiago-bf34",
     "FirstSeenAt": "2026-10-20T17:37:20.806399Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8675049Z",
+    "LastSeenAt": "2026-10-29T00:30:25.8056953Z",
     "Status": 0
   },
   {
@@ -570,7 +570,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "dev-fullstack-ror-react-integraciones-rankmi-santiago",
     "FirstSeenAt": "2026-10-16T23:05:18.4038614Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8675049Z",
+    "LastSeenAt": "2026-10-29T00:30:25.8056953Z",
     "Status": 0
   },
   {
@@ -731,7 +731,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "full-stack-engineer-cumplo-santiago-3dd2",
     "FirstSeenAt": "2026-10-02T18:06:33.1154955Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8675049Z",
+    "LastSeenAt": "2026-10-29T00:30:25.8056953Z",
     "Status": 0
   },
   {
@@ -759,14 +759,14 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "full-stack-engineer-react-net-aws-improving-remote",
     "FirstSeenAt": "2026-10-27T18:29:33.3853712Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8675049Z",
+    "LastSeenAt": "2026-10-29T00:30:25.8056953Z",
     "Status": 0
   },
   {
     "SourceSite": "GetOnBoard",
     "ExternalId": "full-stack-engineer-typescript-react-dynamic-devs-santiago",
     "FirstSeenAt": "2026-10-28T18:35:47.8578215Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8675049Z",
+    "LastSeenAt": "2026-10-29T00:30:25.8056953Z",
     "Status": 0
   },
   {
@@ -787,7 +787,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "full-stack-net-angularjs-react-3it-santiago",
     "FirstSeenAt": "2026-10-27T18:29:33.3853712Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8675049Z",
+    "LastSeenAt": "2026-10-29T00:30:25.8056953Z",
     "Status": 0
   },
   {
@@ -892,7 +892,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "fullstack-developer-tcit-santiago",
     "FirstSeenAt": "2026-10-26T18:56:15.881637Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8675049Z",
+    "LastSeenAt": "2026-10-29T00:30:25.8056953Z",
     "Status": 0
   },
   {
@@ -907,7 +907,7 @@
     "ExternalId": "growth-engineer-capitaria-santiago",
     "FirstSeenAt": "2026-10-14T17:40:39.0560338Z",
     "LastSeenAt": "2026-10-28T18:35:47.8675049Z",
-    "Status": 0
+    "Status": 2
   },
   {
     "SourceSite": "GetOnBoard",
@@ -921,7 +921,7 @@
     "ExternalId": "gtm-engineer-niuro-remote-9639",
     "FirstSeenAt": "2026-10-14T17:40:39.0560338Z",
     "LastSeenAt": "2026-10-28T18:35:47.8675049Z",
-    "Status": 0
+    "Status": 2
   },
   {
     "SourceSite": "GetOnBoard",
@@ -948,7 +948,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "ingeniero-a-de-software-next-js-python-witi-santiago",
     "FirstSeenAt": "2026-10-27T00:09:15.8253015Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8675049Z",
+    "LastSeenAt": "2026-10-29T00:30:25.8056953Z",
     "Status": 0
   },
   {
@@ -983,7 +983,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "ingeniero-full-stack-laravel-vue-poderjudicialvirtual-com-remote",
     "FirstSeenAt": "2026-10-20T17:37:20.806399Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8675049Z",
+    "LastSeenAt": "2026-10-29T00:30:25.8056953Z",
     "Status": 0
   },
   {
@@ -1004,14 +1004,14 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "junior-backend-engineer-santiago-krunchbox-santiago",
     "FirstSeenAt": "2026-10-28T00:09:05.6676372Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8675049Z",
+    "LastSeenAt": "2026-10-29T00:30:25.8056953Z",
     "Status": 0
   },
   {
     "SourceSite": "GetOnBoard",
     "ExternalId": "lider-tecnico-3it-santiago-179f",
     "FirstSeenAt": "2026-10-26T18:56:15.881637Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8675049Z",
+    "LastSeenAt": "2026-10-29T00:30:25.8056953Z",
     "Status": 0
   },
   {
@@ -1095,7 +1095,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "senior-php-developer-laravel-aws-improving-remote",
     "FirstSeenAt": "2026-10-22T23:42:58.9535583Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8675049Z",
+    "LastSeenAt": "2026-10-29T00:30:25.8056953Z",
     "Status": 0
   },
   {
@@ -1200,7 +1200,7 @@
     "SourceSite": "RemoteOK",
     "ExternalId": "1135486",
     "FirstSeenAt": "2026-09-10T16:44:18.3861033Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8496215Z",
+    "LastSeenAt": "2026-10-29T00:30:25.7879434Z",
     "Status": 0
   },
   {
@@ -1208,55 +1208,55 @@
     "ExternalId": "1135555",
     "FirstSeenAt": "2026-09-10T16:44:18.3861033Z",
     "LastSeenAt": "2026-10-28T18:35:47.8496215Z",
-    "Status": 0
+    "Status": 2
   },
   {
     "SourceSite": "RemoteOK",
     "ExternalId": "1135634",
     "FirstSeenAt": "2026-09-10T16:44:18.3861033Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8496215Z",
+    "LastSeenAt": "2026-10-29T00:30:25.7879434Z",
     "Status": 0
   },
   {
     "SourceSite": "RemoteOK",
     "ExternalId": "1135673",
     "FirstSeenAt": "2026-09-10T16:44:18.3861033Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8496215Z",
+    "LastSeenAt": "2026-10-29T00:30:25.7879434Z",
     "Status": 0
   },
   {
     "SourceSite": "RemoteOK",
     "ExternalId": "1136188",
     "FirstSeenAt": "2026-09-10T16:44:18.3861033Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8496215Z",
+    "LastSeenAt": "2026-10-29T00:30:25.7879434Z",
     "Status": 0
   },
   {
     "SourceSite": "RemoteOK",
     "ExternalId": "1136217",
     "FirstSeenAt": "2026-09-10T16:44:18.3861033Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8496215Z",
+    "LastSeenAt": "2026-10-29T00:30:25.7879434Z",
     "Status": 0
   },
   {
     "SourceSite": "RemoteOK",
     "ExternalId": "1136222",
     "FirstSeenAt": "2026-09-10T16:44:18.3861033Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8496215Z",
+    "LastSeenAt": "2026-10-29T00:30:25.7879434Z",
     "Status": 0
   },
   {
     "SourceSite": "RemoteOK",
     "ExternalId": "1136773",
     "FirstSeenAt": "2026-09-10T16:44:18.3861033Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8496215Z",
+    "LastSeenAt": "2026-10-29T00:30:25.7879434Z",
     "Status": 0
   },
   {
     "SourceSite": "RemoteOK",
     "ExternalId": "1137062",
     "FirstSeenAt": "2026-08-23T02:57:37.973039Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8496215Z",
+    "LastSeenAt": "2026-10-29T00:30:25.7879434Z",
     "Status": 0
   },
   {
@@ -1270,7 +1270,7 @@
     "SourceSite": "RemoteOK",
     "ExternalId": "1137410",
     "FirstSeenAt": "2026-09-21T18:22:20.7618127Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8496215Z",
+    "LastSeenAt": "2026-10-29T00:30:25.7879434Z",
     "Status": 0
   },
   {
@@ -1284,21 +1284,21 @@
     "SourceSite": "RemoteOK",
     "ExternalId": "1137537",
     "FirstSeenAt": "2026-10-17T22:44:37.2982289Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8496215Z",
+    "LastSeenAt": "2026-10-29T00:30:25.7879434Z",
     "Status": 0
   },
   {
     "SourceSite": "RemoteOK",
     "ExternalId": "1137538",
     "FirstSeenAt": "2026-10-18T16:12:27.4765906Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8496215Z",
+    "LastSeenAt": "2026-10-29T00:30:25.7879434Z",
     "Status": 0
   },
   {
     "SourceSite": "RemoteOK",
     "ExternalId": "1137568",
     "FirstSeenAt": "2026-10-25T16:54:24.6347352Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8496215Z",
+    "LastSeenAt": "2026-10-29T00:30:25.7879434Z",
     "Status": 0
   },
   {
@@ -1319,7 +1319,7 @@
     "SourceSite": "Remotive",
     "ExternalId": "2091158",
     "FirstSeenAt": "2026-10-19T18:53:17.462026Z",
-    "LastSeenAt": "2026-10-28T18:35:47.6520494Z",
+    "LastSeenAt": "2026-10-29T00:30:25.5907083Z",
     "Status": 0
   },
   {
@@ -1347,28 +1347,28 @@
     "SourceSite": "WeRemoto",
     "ExternalId": "id-entry-level-full-stack-developer-remote-concord-ai",
     "FirstSeenAt": "2026-10-20T17:37:20.7979743Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8515382Z",
+    "LastSeenAt": "2026-10-29T00:30:25.7911632Z",
     "Status": 0
   },
   {
     "SourceSite": "WeRemoto",
     "ExternalId": "id-experienced-software-engineers-wanted-remote-us-career-opportunities-softechassociate",
     "FirstSeenAt": "2026-10-26T18:56:15.873384Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8515382Z",
+    "LastSeenAt": "2026-10-29T00:30:25.7911632Z",
     "Status": 0
   },
   {
     "SourceSite": "WeRemoto",
     "ExternalId": "id-full-stack-data-products-engineer-sagan-recruitment",
     "FirstSeenAt": "2026-10-03T16:50:19.8430229Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8515382Z",
+    "LastSeenAt": "2026-10-29T00:30:25.7911632Z",
     "Status": 0
   },
   {
     "SourceSite": "WeRemoto",
     "ExternalId": "id-full-stack-data-products-engineer-sagan-recruitment-1",
     "FirstSeenAt": "2026-10-04T23:39:25.1631118Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8515382Z",
+    "LastSeenAt": "2026-10-29T00:30:25.7911632Z",
     "Status": 0
   },
   {
@@ -1389,7 +1389,7 @@
     "SourceSite": "WeRemoto",
     "ExternalId": "id-software-engineer---business-automation-sagan-recruitment",
     "FirstSeenAt": "2026-10-04T23:39:25.1631118Z",
-    "LastSeenAt": "2026-10-28T18:35:47.8515382Z",
+    "LastSeenAt": "2026-10-29T00:30:25.7911632Z",
     "Status": 0
   }
 ]
