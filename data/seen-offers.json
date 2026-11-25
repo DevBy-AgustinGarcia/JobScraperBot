@@ -59,7 +59,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "automation-engineer-hibrido-3x2-las-condes-prontopaga-santiago",
     "FirstSeenAt": "2026-11-14T01:07:46.9279363Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9880081Z",
+    "LastSeenAt": "2026-11-25T22:03:43.625687Z",
     "Status": 0
   },
   {
@@ -80,7 +80,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "back-end-developer-java-springboot-apigee-42labs-santiago",
     "FirstSeenAt": "2026-09-30T18:11:56.5498448Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9880081Z",
+    "LastSeenAt": "2026-11-25T22:03:43.625687Z",
     "Status": 0
   },
   {
@@ -129,7 +129,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "back-end-software-engineer-nestjs-cloud-native-aws-witi-remote-f21f",
     "FirstSeenAt": "2026-11-17T21:27:16.2261964Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9880081Z",
+    "LastSeenAt": "2026-11-25T22:03:43.625687Z",
     "Status": 0
   },
   {
@@ -138,6 +138,13 @@
     "FirstSeenAt": "2026-09-28T19:53:44.9709822Z",
     "LastSeenAt": "2026-10-01T00:13:24.028625Z",
     "Status": 2
+  },
+  {
+    "SourceSite": "GetOnBoard",
+    "ExternalId": "backend-developer-apside-remote-85f0",
+    "FirstSeenAt": "2026-11-25T22:03:43.6176546Z",
+    "LastSeenAt": "2026-11-25T22:03:43.625687Z",
+    "Status": 0
   },
   {
     "SourceSite": "GetOnBoard",
@@ -157,7 +164,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "backend-developer-java-spring-boot-aws-interfell-remote",
     "FirstSeenAt": "2026-11-17T21:27:16.2261964Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9880081Z",
+    "LastSeenAt": "2026-11-25T22:03:43.625687Z",
     "Status": 0
   },
   {
@@ -234,7 +241,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "desarrollador-a-backend-nestjs-typescript-witi-remote",
     "FirstSeenAt": "2026-11-24T00:27:57.3616529Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9880081Z",
+    "LastSeenAt": "2026-11-25T22:03:43.625687Z",
     "Status": 0
   },
   {
@@ -339,14 +346,14 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "desarrollador-a-full-stack-java-angular-bc-tecnologia-santiago",
     "FirstSeenAt": "2026-11-11T00:58:10.6036148Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9880081Z",
+    "LastSeenAt": "2026-11-25T22:03:43.625687Z",
     "Status": 0
   },
   {
     "SourceSite": "GetOnBoard",
     "ExternalId": "desarrollador-a-full-stack-java-angular-bc-tecnologia-santiago-ac9f",
     "FirstSeenAt": "2026-11-11T00:58:10.6036148Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9880081Z",
+    "LastSeenAt": "2026-11-25T22:03:43.625687Z",
     "Status": 0
   },
   {
@@ -367,7 +374,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "desarrollador-a-full-stack-nestjs-angular-react-witi-remote",
     "FirstSeenAt": "2026-11-24T00:27:57.3616529Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9880081Z",
+    "LastSeenAt": "2026-11-25T22:03:43.625687Z",
     "Status": 0
   },
   {
@@ -383,6 +390,13 @@
     "FirstSeenAt": "2026-09-03T22:52:27.7074091Z",
     "LastSeenAt": "2026-09-17T23:10:13.572949Z",
     "Status": 2
+  },
+  {
+    "SourceSite": "GetOnBoard",
+    "ExternalId": "desarrollador-a-full-stack-remote-argentina-lira-development-remote",
+    "FirstSeenAt": "2026-11-25T22:03:43.6176546Z",
+    "LastSeenAt": "2026-11-25T22:03:43.625687Z",
+    "Status": 0
   },
   {
     "SourceSite": "GetOnBoard",
@@ -430,7 +444,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "desarrollador-backend-bc-tecnologia-santiago-a1eb",
     "FirstSeenAt": "2026-11-20T20:51:42.8980664Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9880081Z",
+    "LastSeenAt": "2026-11-25T22:03:43.625687Z",
     "Status": 0
   },
   {
@@ -514,7 +528,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "desarrollador-full-stack-junior-python-django-react-magnet-santiago",
     "FirstSeenAt": "2026-11-24T00:27:57.3616529Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9880081Z",
+    "LastSeenAt": "2026-11-25T22:03:43.625687Z",
     "Status": 0
   },
   {
@@ -536,7 +550,7 @@
     "ExternalId": "desarrollador-full-stack-mediastream-remote-6deb",
     "FirstSeenAt": "2026-09-29T18:22:15.422262Z",
     "LastSeenAt": "2026-11-25T03:50:18.9880081Z",
-    "Status": 0
+    "Status": 2
   },
   {
     "SourceSite": "GetOnBoard",
@@ -836,7 +850,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "full-stack-developer-blueworks-crm-remote",
     "FirstSeenAt": "2026-11-17T21:27:16.2261964Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9880081Z",
+    "LastSeenAt": "2026-11-25T22:03:43.625687Z",
     "Status": 0
   },
   {
@@ -927,7 +941,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "full-stack-developer-zipisa-remote",
     "FirstSeenAt": "2026-11-12T20:33:12.8392618Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9880081Z",
+    "LastSeenAt": "2026-11-25T22:03:43.625687Z",
     "Status": 0
   },
   {
@@ -1095,7 +1109,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "fullstack-developer-gcp-ingles-avanzado-tcit-remote",
     "FirstSeenAt": "2026-11-12T20:33:12.8392618Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9880081Z",
+    "LastSeenAt": "2026-11-25T22:03:43.625687Z",
     "Status": 0
   },
   {
@@ -1193,7 +1207,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "ingeniero-a-de-software-full-stack-macal-santiago",
     "FirstSeenAt": "2026-11-24T00:27:57.3616529Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9880081Z",
+    "LastSeenAt": "2026-11-25T22:03:43.625687Z",
     "Status": 0
   },
   {
@@ -1214,7 +1228,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "ingeniero-a-full-stack-ameris-capital-santiago",
     "FirstSeenAt": "2026-11-16T22:37:03.4673221Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9880081Z",
+    "LastSeenAt": "2026-11-25T22:03:43.625687Z",
     "Status": 0
   },
   {
@@ -1256,8 +1270,8 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "java-backend-developer-arkho-remote",
     "FirstSeenAt": "2026-11-19T02:05:35.3572988Z",
-    "LastSeenAt": "2026-11-23T01:11:14.5996352Z",
-    "Status": 2
+    "LastSeenAt": "2026-11-25T22:03:43.625687Z",
+    "Status": 0
   },
   {
     "SourceSite": "GetOnBoard",
@@ -1270,7 +1284,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "jefe-a-de-proyectos-ti-bomberos-de-chile-santiago",
     "FirstSeenAt": "2026-11-19T21:05:23.8824475Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9880081Z",
+    "LastSeenAt": "2026-11-25T22:03:43.625687Z",
     "Status": 0
   },
   {
@@ -1394,6 +1408,13 @@
   },
   {
     "SourceSite": "GetOnBoard",
+    "ExternalId": "software-development-engineer-healthatom-remote-7fe9",
+    "FirstSeenAt": "2026-11-25T22:03:43.6176546Z",
+    "LastSeenAt": "2026-11-25T22:03:43.625687Z",
+    "Status": 0
+  },
+  {
+    "SourceSite": "GetOnBoard",
     "ExternalId": "software-development-engineer-healthatom-remote-d014",
     "FirstSeenAt": "2026-09-21T23:42:19.2633621Z",
     "LastSeenAt": "2026-09-24T17:37:26.8697327Z",
@@ -1403,7 +1424,7 @@
     "SourceSite": "GetOnBoard",
     "ExternalId": "software-engineer-full-stack-logpilot-santiago-1ad9",
     "FirstSeenAt": "2026-11-13T20:10:27.1002356Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9880081Z",
+    "LastSeenAt": "2026-11-25T22:03:43.625687Z",
     "Status": 0
   },
   {
@@ -1411,20 +1432,20 @@
     "ExternalId": "software-engineer-full-stack-xintec-santiago",
     "FirstSeenAt": "2026-11-09T22:48:29.0898175Z",
     "LastSeenAt": "2026-11-25T03:50:18.9880081Z",
-    "Status": 0
+    "Status": 2
   },
   {
     "SourceSite": "GetOnBoard",
     "ExternalId": "software-engineer-full-stack-xintec-santiago-13d8",
     "FirstSeenAt": "2026-11-18T20:59:30.1086718Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9880081Z",
+    "LastSeenAt": "2026-11-25T22:03:43.625687Z",
     "Status": 0
   },
   {
     "SourceSite": "GetOnBoard",
     "ExternalId": "software-engineer-grupo-lagos-santiago-543b",
     "FirstSeenAt": "2026-11-17T21:27:16.2261964Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9880081Z",
+    "LastSeenAt": "2026-11-25T22:03:43.625687Z",
     "Status": 0
   },
   {
@@ -1515,21 +1536,21 @@
     "SourceSite": "RemoteOK",
     "ExternalId": "1135217",
     "FirstSeenAt": "2026-11-24T00:27:57.3061103Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9670998Z",
+    "LastSeenAt": "2026-11-25T22:03:43.5961209Z",
     "Status": 0
   },
   {
     "SourceSite": "RemoteOK",
     "ExternalId": "1135228",
     "FirstSeenAt": "2026-11-24T00:27:57.3061103Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9670998Z",
+    "LastSeenAt": "2026-11-25T22:03:43.5961209Z",
     "Status": 0
   },
   {
     "SourceSite": "RemoteOK",
     "ExternalId": "1135319",
     "FirstSeenAt": "2026-11-24T00:27:57.3061103Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9670998Z",
+    "LastSeenAt": "2026-11-25T22:03:43.5961209Z",
     "Status": 0
   },
   {
@@ -1543,14 +1564,14 @@
     "SourceSite": "RemoteOK",
     "ExternalId": "1135477",
     "FirstSeenAt": "2026-11-24T00:27:57.3061103Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9670998Z",
+    "LastSeenAt": "2026-11-25T22:03:43.5961209Z",
     "Status": 0
   },
   {
     "SourceSite": "RemoteOK",
     "ExternalId": "1135486",
     "FirstSeenAt": "2026-09-10T16:44:18.3861033Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9670998Z",
+    "LastSeenAt": "2026-11-25T22:03:43.5961209Z",
     "Status": 0
   },
   {
@@ -1592,7 +1613,7 @@
     "SourceSite": "RemoteOK",
     "ExternalId": "1136222",
     "FirstSeenAt": "2026-09-10T16:44:18.3861033Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9670998Z",
+    "LastSeenAt": "2026-11-25T22:03:43.5961209Z",
     "Status": 0
   },
   {
@@ -1606,7 +1627,7 @@
     "SourceSite": "RemoteOK",
     "ExternalId": "1137062",
     "FirstSeenAt": "2026-08-23T02:57:37.973039Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9670998Z",
+    "LastSeenAt": "2026-11-25T22:03:43.5961209Z",
     "Status": 0
   },
   {
@@ -1620,7 +1641,7 @@
     "SourceSite": "RemoteOK",
     "ExternalId": "1137410",
     "FirstSeenAt": "2026-09-21T18:22:20.7618127Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9670998Z",
+    "LastSeenAt": "2026-11-25T22:03:43.5961209Z",
     "Status": 0
   },
   {
@@ -1648,42 +1669,42 @@
     "SourceSite": "RemoteOK",
     "ExternalId": "1137568",
     "FirstSeenAt": "2026-10-25T16:54:24.6347352Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9670998Z",
+    "LastSeenAt": "2026-11-25T22:03:43.5961209Z",
     "Status": 0
   },
   {
     "SourceSite": "RemoteOK",
     "ExternalId": "1137600",
     "FirstSeenAt": "2026-10-30T18:18:56.1906649Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9670998Z",
+    "LastSeenAt": "2026-11-25T22:03:43.5961209Z",
     "Status": 0
   },
   {
     "SourceSite": "RemoteOK",
     "ExternalId": "1137614",
     "FirstSeenAt": "2026-11-03T02:42:03.6778915Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9670998Z",
+    "LastSeenAt": "2026-11-25T22:03:43.5961209Z",
     "Status": 0
   },
   {
     "SourceSite": "RemoteOK",
     "ExternalId": "1137619",
     "FirstSeenAt": "2026-11-03T19:53:13.5023241Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9670998Z",
+    "LastSeenAt": "2026-11-25T22:03:43.5961209Z",
     "Status": 0
   },
   {
     "SourceSite": "RemoteOK",
     "ExternalId": "1137685",
     "FirstSeenAt": "2026-11-05T20:23:39.5986564Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9670998Z",
+    "LastSeenAt": "2026-11-25T22:03:43.5961209Z",
     "Status": 0
   },
   {
     "SourceSite": "RemoteOK",
     "ExternalId": "1137691",
     "FirstSeenAt": "2026-11-06T19:46:49.675483Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9670998Z",
+    "LastSeenAt": "2026-11-25T22:03:43.5961209Z",
     "Status": 0
   },
   {
@@ -1697,49 +1718,49 @@
     "SourceSite": "RemoteOK",
     "ExternalId": "1137704",
     "FirstSeenAt": "2026-11-09T22:48:29.0042183Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9670998Z",
+    "LastSeenAt": "2026-11-25T22:03:43.5961209Z",
     "Status": 0
   },
   {
     "SourceSite": "RemoteOK",
     "ExternalId": "1137711",
     "FirstSeenAt": "2026-11-10T20:06:55.6639505Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9670998Z",
+    "LastSeenAt": "2026-11-25T22:03:43.5961209Z",
     "Status": 0
   },
   {
     "SourceSite": "RemoteOK",
     "ExternalId": "1137714",
     "FirstSeenAt": "2026-11-11T19:56:42.0084453Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9670998Z",
+    "LastSeenAt": "2026-11-25T22:03:43.5961209Z",
     "Status": 0
   },
   {
     "SourceSite": "RemoteOK",
     "ExternalId": "1137793",
     "FirstSeenAt": "2026-11-14T01:07:46.8078114Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9670998Z",
+    "LastSeenAt": "2026-11-25T22:03:43.5961209Z",
     "Status": 0
   },
   {
     "SourceSite": "RemoteOK",
     "ExternalId": "1137805",
     "FirstSeenAt": "2026-11-19T21:05:23.7659783Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9670998Z",
+    "LastSeenAt": "2026-11-25T22:03:43.5961209Z",
     "Status": 0
   },
   {
     "SourceSite": "RemoteOK",
     "ExternalId": "1137808",
     "FirstSeenAt": "2026-11-20T20:51:42.7795612Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9670998Z",
+    "LastSeenAt": "2026-11-25T22:03:43.5961209Z",
     "Status": 0
   },
   {
     "SourceSite": "RemoteOK",
     "ExternalId": "1137839",
     "FirstSeenAt": "2026-11-20T20:51:42.7795612Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9670998Z",
+    "LastSeenAt": "2026-11-25T22:03:43.5961209Z",
     "Status": 0
   },
   {
@@ -1767,7 +1788,14 @@
     "SourceSite": "Remotive",
     "ExternalId": "2091165",
     "FirstSeenAt": "2026-10-31T17:25:11.7748782Z",
-    "LastSeenAt": "2026-11-25T03:50:18.8306217Z",
+    "LastSeenAt": "2026-11-25T22:03:43.3891666Z",
+    "Status": 0
+  },
+  {
+    "SourceSite": "Remotive",
+    "ExternalId": "2091179",
+    "FirstSeenAt": "2026-11-25T22:03:43.3891666Z",
+    "LastSeenAt": "2026-11-25T22:03:43.3891666Z",
     "Status": 0
   },
   {
@@ -1809,7 +1837,7 @@
     "SourceSite": "WeRemoto",
     "ExternalId": "id-ai-ml-developer-20four7va",
     "FirstSeenAt": "2026-11-10T20:06:55.758814Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9768418Z",
+    "LastSeenAt": "2026-11-25T22:03:43.6093632Z",
     "Status": 0
   },
   {
@@ -1830,14 +1858,14 @@
     "SourceSite": "WeRemoto",
     "ExternalId": "id-experienced-software-engineers-wanted-remote-us-career-opportunities-softechassociate",
     "FirstSeenAt": "2026-10-26T18:56:15.873384Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9768418Z",
+    "LastSeenAt": "2026-11-25T22:03:43.6093632Z",
     "Status": 0
   },
   {
     "SourceSite": "WeRemoto",
     "ExternalId": "id-full-stack-ai-developer-pavago",
     "FirstSeenAt": "2026-11-16T22:37:03.4569524Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9768418Z",
+    "LastSeenAt": "2026-11-25T22:03:43.6093632Z",
     "Status": 0
   },
   {
@@ -1858,35 +1886,35 @@
     "SourceSite": "WeRemoto",
     "ExternalId": "id-full-stack-developer---mid-level-sagan-recruitment",
     "FirstSeenAt": "2026-11-09T00:12:45.9664288Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9768418Z",
+    "LastSeenAt": "2026-11-25T22:03:43.6093632Z",
     "Status": 0
   },
   {
     "SourceSite": "WeRemoto",
     "ExternalId": "id-full-stack-developer-pavago",
     "FirstSeenAt": "2026-11-03T19:53:13.608344Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9768418Z",
+    "LastSeenAt": "2026-11-25T22:03:43.6093632Z",
     "Status": 0
   },
   {
     "SourceSite": "WeRemoto",
     "ExternalId": "id-full-stack-developer-pavago-1",
     "FirstSeenAt": "2026-11-17T21:27:16.2156837Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9768418Z",
+    "LastSeenAt": "2026-11-25T22:03:43.6093632Z",
     "Status": 0
   },
   {
     "SourceSite": "WeRemoto",
     "ExternalId": "id-full-stack-developer-python-react-ai-coding-tools-sagan-recruitment",
     "FirstSeenAt": "2026-11-20T01:56:02.6862372Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9768418Z",
+    "LastSeenAt": "2026-11-25T22:03:43.6093632Z",
     "Status": 0
   },
   {
     "SourceSite": "WeRemoto",
     "ExternalId": "id-full-stack-developer-remote-talent-latam",
     "FirstSeenAt": "2026-11-19T21:05:23.868261Z",
-    "LastSeenAt": "2026-11-25T03:50:18.9768418Z",
+    "LastSeenAt": "2026-11-25T22:03:43.6093632Z",
     "Status": 0
   },
   {
